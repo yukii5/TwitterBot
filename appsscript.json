@@ -1,0 +1,16 @@
+{
+  "timeZone": "America/New_York",
+  "dependencies": {
+    "libraries": [{
+      "userSymbol": "OAuth1",
+      "libraryId": "XXXXXXXXXX",
+      "version": "18"
+    }, {
+      "userSymbol": "TwitterWebService",
+      "libraryId": "XXXXXXXXXX",
+      "version": "2"
+    }]
+  },
+  "exceptionLogging": "STACKDRIVER",
+  "runtimeVersion": "V8"
+}
